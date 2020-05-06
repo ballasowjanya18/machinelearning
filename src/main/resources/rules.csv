@@ -1,0 +1,15 @@
+AMFailedToStart,MetacatBadRequest,SparkSqlError,TitusFailurecatchAll,PapermillError,ErrorClass
+T,F,F,T,F,PTRT
+F,T,F,F,F,PTRF
+T,F,T,T,F,PTRT
+F,T,T,F,T,PFRT
+T,F,F,F,F,PTRF
+F,T,F,F,T,PFRF
+T,F,F,T,T,PTRT
+F,T,T,T,F,PTRT
+T,F,F,F,F,PFRF
+F,T,T,F,T,PTRF
+T,F,T,T,T,PTRF
+F,T,T,T,T,PFRT
+T,F,F,F,F,PFRF
+F,T,T,F,T,PTRT
